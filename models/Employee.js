@@ -7,7 +7,7 @@ const EmployeeSchema = Schema({
   name: String,
   lastname: String,
   document: Number,
-  telephone: Number,
+  phone: Number,
   appointment: String,
   register_date: Date,
   status: String
